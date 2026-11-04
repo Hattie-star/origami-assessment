@@ -1,0 +1,4 @@
+streamlit>=1.39,<2
+streamlit-image-coordinates>=0.3.1,<1
+Pillow>=10,<13
+pandas>=2,<3
